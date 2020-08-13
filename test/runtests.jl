@@ -2,5 +2,5 @@ using TSD
 using Test
 
 @testset "TSD.jl" begin
-    # Write your tests here.
+    @test double(1) == 2
 end
