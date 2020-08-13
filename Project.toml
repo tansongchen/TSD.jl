@@ -1,0 +1,7 @@
+name = "TSD"
+uuid = "a9d3955d-3c86-4dd5-80fb-efaa64d92fdd"
+authors = ["Songchen Tan"]
+version = "0.1.0"
+
+[compat]
+julia = "1.5"
